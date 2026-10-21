@@ -9,7 +9,7 @@ description = "Local-first rental ledger, lease renewals, and maintenance tracke
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "rzl" }]
+authors = [{ name = "InGarlicBreadWeTrust" }]
 keywords = ["rent", "ledger", "lease", "maintenance", "late-fee", "csv", "cli"]
 classifiers = [
      "Programming Language :: Python :: 3",
